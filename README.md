@@ -1,6 +1,8 @@
 
 ## Available Scripts
 
+git clone https://github.com/hemanth21kumar/assignment-cts-.git
+
 In the project directory, you can run:
 
 ### `npm start`
