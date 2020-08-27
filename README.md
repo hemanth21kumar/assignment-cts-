@@ -2,6 +2,7 @@
 ## Available Scripts
 
 git clone https://github.com/hemanth21kumar/assignment-cts-.git
+
 npm install
 
 In the project directory, you can run:
