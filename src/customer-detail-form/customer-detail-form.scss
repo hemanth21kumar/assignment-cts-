@@ -1,0 +1,25 @@
+.form-container{
+    transform: translate(0%, 20%);
+    text-align: center;
+
+    .alert-notification{
+        position: absolute;
+        left: 50%;
+        margin-left: -170px;
+        top:-80px;
+    }
+    
+    h3{
+        padding: 20px 0;
+    }
+    .justify-content{
+        justify-content: center;
+    }
+    .wrapper{
+        box-shadow: 0 0 3px 0px rgba(0,0,0,0.5);
+    }
+    .next-btn{
+        text-align: right;
+        margin: 18px -14px 0;
+    }
+}

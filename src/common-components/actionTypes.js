@@ -1,0 +1,3 @@
+export const SET_REPORT_LIST = 'SET_REPORT_LIST';
+export const SET_CUSTOMER_DETAIL = 'SET_CUSTOMER_DETAIL';
+

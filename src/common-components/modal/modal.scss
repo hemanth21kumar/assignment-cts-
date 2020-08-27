@@ -1,0 +1,18 @@
+.modal-container{
+    
+    .modal-footer{
+        Button{
+            margin: 0 20px;
+        }
+    }
+}
+
+.error{
+    color: red;
+    font-size: 12px;
+}
+
+input:focus, textarea:focus, select:focus{
+    outline: none;
+}
+

@@ -1,0 +1,31 @@
+.details-container{
+    text-align: center;
+    box-shadow: 0 0 3px 0px rgba(0, 0, 0, 0.5);
+    transform: translate(0%, 20%);
+    padding: 0 0 20px;
+
+    h3{
+        padding: 20px 0;
+    }
+
+    .row-center{
+        justify-content: center;
+        label{
+            text-transform: capitalize;
+        }
+        
+        .pic-style{
+            width: 150px;
+            border-radius: 10px;
+            overflow: hidden;
+            border: solid 2px #1a293d;
+            box-shadow: 0px 0 3px 0px #47c485;
+            height: 150px;
+        }
+    }
+
+    .btn-group{
+        display: block;
+        margin: 20px 0 0;
+    }
+}
